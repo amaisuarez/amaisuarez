@@ -31,11 +31,6 @@
 | 🧬 **Simulador del dogma central** | Replicación, transcripción y traducción con interfaz web interactiva | Python · Web |
 | 🧮 **Multiplicación de matrices** | Benchmark de la misma tarea en tres lenguajes | Python · Java · C |
 
-#### 🛠️ En construcción
-- ⚽ **Predictor de fútbol** — dashboard de estadísticas de clubes y selecciones para predecir partidos
-- 📱 **Juego de fútbol para móvil** — modo presidente y modo jugador, ligas reales y fichajes realistas
-- ☕ **Web de Cafetería Siroco** — carta y pedidos para un negocio local
-
 ---
 
 ### 🧰 Tecnologías
