@@ -15,8 +15,6 @@
 
 - 🎓 Estudiante en último año de Ciencia e Ingeniería de Datos en la ULPGC
 - 🐋 Ahora mismo: investigando patrones en las **codas de cachalote** con aprendizaje no supervisado
-- ☕ Construyendo webs para negocios locales y herramientas para mi día a día
-- ⚽ Obsesionado con los datos de fútbol: goles, remates, córners y tarjetas
 - 📫 Contacto: Amai Suárez en LinkedIn 
 
 ---
